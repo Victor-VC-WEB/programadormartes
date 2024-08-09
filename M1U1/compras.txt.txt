@@ -1,3 +1,7 @@
 galletitas
 harina
 limpieza
+bananas 
+manzanas
+paltas
+naranjas
